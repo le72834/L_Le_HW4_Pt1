@@ -1,4 +1,4 @@
-![It is about the Olympic Winter Games](images/olympic_winter.jpg "Olympic Winter Logo")
+![It is about the Olympic Winter Games](images/olympic_winter.jpg "Olympic Winter Logo.")
 
 # Olympic Canada Medals Analysis
 
