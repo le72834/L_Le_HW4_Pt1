@@ -1,6 +1,7 @@
 ![It is about the Olympic Winter Games](images/olympic_winter.jpg "Olympic Winter Logo")
 
 # Olympic Canada Medals Analysis
+
 ## This is about the data of Canada Ice Hockey Medals between women and men. 
 
 ### Getting Started 
