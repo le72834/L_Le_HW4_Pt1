@@ -10,7 +10,8 @@ performance = [2,2,2,2,2,1,2,4,7,10,33,37,47,44,44]
 
 plt.barh(y_pos, performance, align='center', alpha=0.5)
 plt.yticks(y_pos, objects)
-plt.ylabel('Proportion of Medals win by Women')
-plt.title('Year of Winter Olympics')
+plt.ylabel('Year of Winter Olympics')
+plt.title('Proportion of Medals win by Women')
+
 
 plt.show()
