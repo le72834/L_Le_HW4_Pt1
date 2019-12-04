@@ -7,7 +7,7 @@ p {
 	text-align: center;
 }
 
-.MedalsbyYear {
+#MedalsbyYear {
 	margin: 0 auto;
 	display: flex;
 	flex-direction: row;
@@ -16,23 +16,23 @@ p {
 .box {
 	padding-top: 20px;
 	text-align: center;
-	margin: 10px;
+	margin-left: 50px;
 }
 
 h3 {
 	text-align: center;
 }
 
-.TotalMedalsbyYear img {
-	margin-left: 300px;
+#TotalMedalsbyYear img {
+	margin-left: 500px;
 }
 
-.total img {
-	margin-left: 300px;
+#total img {
+	margin-left: 500px;
 
 }
 
-.compare {
+#compare {
 	display: flex;
 	flex-direction: row;
 }
